@@ -37,7 +37,7 @@ instructions to set up////
 <-------------------------------------------- Thats it enjoy -------------------------------------------------->
 
 
-For model visit blaze-phoenix.github.io/lifestyle_store/    or    lifestyle.blazephoenix.epizy.com
+For model visit blaze-phoenix.github.io/lifestyle_store/    or    lifestyle-store-blazephoenix.herokuapp.com
 
 
 
