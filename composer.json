@@ -1,4 +1,6 @@
 {
+    "name": "lifestyle/store",
+    "description": "Simple shopping app",
     "require": {
         "ext-mysqli": "*"
     }

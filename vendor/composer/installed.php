@@ -6,19 +6,19 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'ced072cfe796501ce27741b630b45099c9f0f4b5',
-    'name' => '__root__',
+    'reference' => 'fad89fff094363d58743a70f95aa7d20fe333611',
+    'name' => 'lifestyle/store',
   ),
   'versions' => 
   array (
-    '__root__' => 
+    'lifestyle/store' => 
     array (
       'pretty_version' => 'dev-master',
       'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => 'ced072cfe796501ce27741b630b45099c9f0f4b5',
+      'reference' => 'fad89fff094363d58743a70f95aa7d20fe333611',
     ),
   ),
 );
